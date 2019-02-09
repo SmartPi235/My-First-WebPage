@@ -1,0 +1,32 @@
+<html>
+<body bgcolor="yellow"> 
+
+<center><h1 style="background-color:#0047ab;"><b><font color ="#B8860B">MINECRAFT</font></b></h1></center>
+
+b<p>Minecraft is a 2011 sandbox video game created by Swedish game developer Markus Persson and later developed by Mojang.
+The game allows players to build with a variety of different blocks in a 3D procedurally generated world, requiring creativity from players.
+It also has features like Destroying,PVP/PVE,crafting,exploring and much more!</p>
+
+<p>What was the first name of Minecraft?
+Pre-classic is the name given to the prototype versions developed before Classic. It was the very first development phase in Minecraft, lasting for a week.
+ The phase was originally named "Cave Game" until the game was changed to "Minecraft: Order of the Stone" then to "Minecraft".</p>
+
+<p>Is Minecraft educational?
+Yes, Minecraft is educational because it enhances creativity, problem-solving, self-direction, collaboration, and other life skills.
+ In the classroom, Minecraft complements reading, writing, math, and even history learnings.
+ ... Both fun and educational, Minecraft is easily on our list of best games for kids.</p>
+
+<p>What is Minecraft coded in?
+Mods written for Minecraft are also written in Java. Some actually use Scala, an alternative language for the JVM, as well.
+ The versions of Minecraft that run on game consoles, mobile devices, and the Raspberry Pi, though, are all written in native code, likely C++.</p>
+
+<p>How much does it cost to play Minecraft?
+You can buy Minecraft from Minecraft.net for $26.95 USD or local currency equivalent.</p></b>
+
+<img src "C:\Users\Pankhupal\Desktop\FINAL WEBSITE\pic2" hieght=300,width=500>
+</body>
+</html>
+
+
+
+
